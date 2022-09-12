@@ -1,0 +1,25 @@
+@media (max-width: 991px) {
+    nav .brand-logo.left{
+        left: 0!important;
+    }
+    nav .sidenav-trigger i{
+        line-height: 56px!important;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 768px) {
+
+}
+
+
+
+
+
+@media (max-width: 500px) {
+
+}
